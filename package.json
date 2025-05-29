@@ -2,7 +2,8 @@
   "name": "atividade-4",
   "scripts": {
     "q1": "coffee src/q.1.coffee",
-    "q2": "coffee src/q.2.coffee"
+    "q2": "coffee src/q.2.coffee",
+    "q3": "coffee src/q.3.coffee"
   },
   "dependencies": {
     "dayjs": "^1.11.13",
