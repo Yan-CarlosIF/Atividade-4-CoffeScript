@@ -1,6 +1,8 @@
 {
   "name": "atividade-4",
-  "scripts": {},
+  "scripts": {
+    "q1": "coffee --watch src/q.1.coffee"
+  },
   "dependencies": {
     "readline-sync": "^1.4.10",
     "fs-jetpack": "^5.1.0",
