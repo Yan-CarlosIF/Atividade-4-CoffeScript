@@ -1,0 +1,11 @@
+- arquivo: receita.txt
+  usuario: pedro
+  tamanho: 2
+
+- arquivo: bolo.jpg
+  usuario: maria
+  tamanho: 3
+
+- arquivo: trabalho.doc
+  usuario: pedro
+  tamanho: 4
