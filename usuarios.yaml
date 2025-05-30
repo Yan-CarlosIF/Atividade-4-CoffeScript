@@ -1,0 +1,14 @@
+- uid: 0
+  login: "root"
+
+- uid: 1000
+  login: "alice"
+
+- uid: 1001
+  login: "bob"
+
+- uid: 1002
+  login: "carol"
+
+- uid: 1003
+  login: "dave"

@@ -1,0 +1,40 @@
+- pid: 101
+  name: "chrome"
+  state: "ready"
+  io_bound: false
+  uid: 1000
+  login: "alice"
+  affinity: [0, 1]
+
+- pid: 102
+  name: "vscode"
+  state: "running"
+  io_bound: false
+  uid: 1000
+  login: "alice"
+  affinity: [2]
+
+- pid: 103
+  name: "ffmpeg"
+  state: "waiting"
+  io_bound: true
+  uid: 1001
+  login: "bob"
+  affinity: [0, 1, 2, 3]
+
+- pid: 104
+  name: "backup-daemon"
+  state: "blocked"
+  io_bound: true
+  uid: 0
+  login: "root"
+  affinity: [3]
+
+- pid: 105
+  name: "spotify"
+  state: "ready"
+  io_bound: true
+  uid: 1002
+  login: "carol"
+  affinity: [1, 2]
+  

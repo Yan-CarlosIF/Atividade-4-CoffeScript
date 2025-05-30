@@ -1,21 +1,25 @@
 {
-  "name": "atividade-4",
-  "scripts": {
-    "q1": "coffee src/q.1.coffee",
-    "q2": "coffee src/q.2.coffee",
-    "q3": "coffee src/q.3.coffee",
-    "q4": "coffee src/q.4.coffee"
-  },
-  "dependencies": {
-    "dayjs": "^1.11.13",
-    "fs-jetpack": "^5.1.0",
-    "md5": "^2.3.0",
-    "picocolors": "^1.1.1",
-    "play-sound": "^1.1.6",
-    "python-struct": "^1.1.3",
-    "readline-sync": "^1.4.10",
-    "say": "^0.16.0",
-    "sha.js": "^2.4.11",
-    "yaml": "^2.8.0"
-  }
+	"name": "atividade-4",
+	"scripts": {
+		"q1": "coffee src/q.1.coffee",
+		"q2": "coffee src/q.2.coffee",
+		"q3": "coffee src/q.3.coffee",
+		"q4": "coffee src/q.4.coffee",
+		"q5": "coffee src/q.5.coffee",
+		"q6": "coffee src/q.6.coffee",
+		"q7": "coffee src/q.7.coffee",
+		"q8": "coffee src/q.8.coffee"
+	},
+	"dependencies": {
+		"dayjs": "^1.11.13",
+		"fs-jetpack": "^5.1.0",
+		"md5": "^2.3.0",
+		"picocolors": "^1.1.1",
+		"play-sound": "^1.1.6",
+		"python-struct": "^1.1.3",
+		"readline-sync": "^1.4.10",
+		"say": "^0.16.0",
+		"sha.js": "^2.4.11",
+		"yaml": "^2.8.0"
+	}
 }
